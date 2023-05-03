@@ -5,6 +5,7 @@
 
 ## Para contribuir siga as etapas abaixo:
 
+
 1. De um fork ao repositório.
 <br>
 
@@ -43,9 +44,13 @@
     ````
     
 <br>
+<br>
+
 
 6. **Faça as suas alterações e teste o seu código.**
 <br>
+<br>
+
 
 7. Faça um commit das suas alterações:
 	````
