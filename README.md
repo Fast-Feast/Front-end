@@ -1,10 +1,11 @@
 ## Bem Vindo ao repositório FrontEnd do Fast Feast !
 
-
+<br>
 # Para contribuir siga as etapas abaixo:
 
 1. De um fork ao repositório
 <br>
+
 2. Clone o seu fork:
 	````
 	
