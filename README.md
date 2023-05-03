@@ -1,8 +1,9 @@
-## Bem Vindo ao repositório FrontEnd do Fast Feast !
+# Bem Vindo ao repositório FrontEnd do Fast Feast !
 
 <br>
+<br>
 
-# Para contribuir siga as etapas abaixo:
+## Para contribuir siga as etapas abaixo:
 
 1. De um fork ao repositório
 <br>
