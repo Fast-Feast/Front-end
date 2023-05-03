@@ -1,4 +1,4 @@
-# Bem Vindo ao repositório FrontEnd do Fast Feast !
+# Bem Vindo ao repositório FrontEnd do Fast Feast!
 
 <br>
 <br>
