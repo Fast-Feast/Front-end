@@ -1,6 +1,7 @@
 ## Bem Vindo ao repositório FrontEnd do Fast Feast !
 
 <br>
+
 # Para contribuir siga as etapas abaixo:
 
 1. De um fork ao repositório
@@ -68,4 +69,4 @@
 9. Crie um pull request com o mesmo nome do commit para esta branch.
 <br> 
 
-	**Siga este padrão de commit -> https://www.conventionalcommits.org/pt-br/v1.0.0/** 
+	Siga este padrão de commit -> https://www.conventionalcommits.org/pt-br/v1.0.0/
