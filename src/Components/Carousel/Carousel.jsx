@@ -40,6 +40,7 @@ const Carousel = () => {
                 pagination={{
                     type: "progressbar",
                 }}
+
                 navigation={isWideScreen} // Ativa a navegação somente quando for maior que 640
                 modules={[Pagination, Navigation]}
                 className="mySwiper"
