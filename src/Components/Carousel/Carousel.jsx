@@ -15,7 +15,7 @@ const Carousel = () => {
 
     return (
         <div className='carousel-container justify-center m-auto tablet:w-11/12 mobile1:w-full'>
-            <h1 className="text-base font-bold mt-9 mb-3 tablet:text-3xl">Peça do conforto da sua casa</h1>
+            <h1 className="text-base font-bold mt-9 tablet:text-3xl">Peça do conforto da sua casa</h1>
 
             <S.StyledSlide
                 breakpoints={{
@@ -33,10 +33,10 @@ const Carousel = () => {
                         slidesPerView: 10,
                     },
                     1280: {
-                        slidesPerView: 12,
+                        slidesPerView: 13,
                     },
                 }} 
-                spaceBetween={15}
+                spaceBetween={23}
                 pagination={{
                     type: "progressbar",
                 }}
