@@ -2,6 +2,7 @@ import './App.css'
 import Carousel from './Components/Carousel/Carousel'
 import CarouselBanners from './Components/CarouselBanners/CarouselBanners'
 import CarouselOfertas from './Components/CarouselOfertas/CarouselOfertas'
+import Footer from './Components/Footer/Footer'
 
 
 function App() {
@@ -13,6 +14,7 @@ function App() {
       <Carousel/>
       <CarouselBanners />
       <CarouselOfertas />
+      <Footer />
     </div>
 
   )
