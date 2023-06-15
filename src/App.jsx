@@ -1,4 +1,5 @@
 import './App.css'
+import Atalhos from './Components/Atalhos/Atalhos'
 import Carousel from './Components/Carousel/Carousel'
 import CarouselBanners from './Components/CarouselBanners/CarouselBanners'
 import CarouselOfertas from './Components/CarouselOfertas/CarouselOfertas'
@@ -13,6 +14,7 @@ function App() {
     <div>
       <Carousel/>
       <CarouselBanners />
+      <Atalhos/>
       <CarouselOfertas />
       <Footer />
     </div>
