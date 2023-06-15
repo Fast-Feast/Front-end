@@ -28,7 +28,14 @@ padding-top: 50px;
     --swiper-navigation-size: 20px;
 
 }
+`;
 
-
-
-`
+export const Link = styled.a`
+    font-family: 'Nunito';
+    font-weight: 800;
+    color: #FF0000;
+    font-size: 12px;
+    z-index: 2;
+    position: absolute;
+    left: 87%;
+`;
