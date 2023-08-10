@@ -1,13 +1,11 @@
-import React from 'react';
-
 const Atalhos = () => {
   return ( 
     <div className="relative w-full h-[493px] text-center text-lg text-black-text font-link-card">
     <div className="absolute h-[24.85%] w-[52.28%] top-[-3.85%] left-[23.86%] text-51xl leading-[82.08px] flex items-center">
-      <span className="[line-break:anywhere] w-full">
+      <span className="[line-break:anywhere] w-full text-[50px]">
         <span className="font-extralight">Atalhos do</span>
         <span className="font-extralight font-inter text-gray-100">{` `}</span>
-        <span className="font-extrabold text-red-1">FastFeast</span>
+        <span className="font-extrabold text-[#FF0000]">FastFeast</span>
       </span>
     </div>
     <div className="absolute w-[calc(100%_-_1036px)] top-[123px] right-[759px] left-[277px] rounded-lg bg-white-all shadow-[0px_4px_4px_rgba(0,_0,_0,_0.1)] box-border h-[178px] overflow-hidden border-[1px] border-solid border-aliceblue">
@@ -26,7 +24,7 @@ const Atalhos = () => {
           </div>
         </div>
         <div className="absolute top-[-21px] left-[calc(50%_-_205px)] rounded-lg bg-honeydew w-[410px] h-12 text-base text-mediumspringgreen">
-            <div className="absolute top-[12px] left-[164px] leading-[26.08px] font-bold flex items-center justify-center w-[82.09px] h-[22px]">
+            <div className="cursor-pointer text-[#00C767] absolute top-[12px] left-[164px] leading-[26.08px] font-bold flex items-center justify-center w-[82.09px] h-[22px]">
               Saiba mais
             </div>
         </div>
@@ -50,7 +48,7 @@ const Atalhos = () => {
           </div>
         </div>
           <div className="absolute top-[-21px] left-[calc(50%_-_205px)] rounded-lg bg-honeydew w-[410px] h-12 text-base text-mediumspringgreen">
-            <div className="absolute top-[12px] left-[164px] leading-[26.08px] font-bold flex items-center justify-center w-[82.09px] h-[22px]">
+            <div className="cursor-pointer text-[#00C767] absolute top-[12px] left-[164px] leading-[26.08px] font-bold flex items-center justify-center w-[82.09px] h-[22px]">
               Saiba mais
             </div>
         </div>

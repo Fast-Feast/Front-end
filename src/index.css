@@ -6,3 +6,8 @@ body{
     background-color: #EAEAEA;
 }
 
+.teste{
+    justify-content: center;
+    display: flex;
+    justify-content: space-around;    
+}

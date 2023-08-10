@@ -1,11 +1,10 @@
-import React from 'react';
 import { SwiperSlide } from 'swiper/react';
 import { Pagination, Navigation } from "swiper";
 import * as S from './Style';
 
 function CarouselBanner() {
     return (
-        <div className='mt-[200px] max-w-[1358px] h-[385px] m-auto'>
+        <div className='mt-[10px] max-w-[1358px] h-[385px] m-auto'>
             <S.Title>Ofertas Imperdíveis</S.Title> 
             <S.Link href=''>Ver todos</S.Link>           
             <S.SwiperStyled
